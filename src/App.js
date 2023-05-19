@@ -6,6 +6,7 @@ function App() {
     do'stlar
     hammaga salom
     salom
+    salom2
     </div>
   );
 }
