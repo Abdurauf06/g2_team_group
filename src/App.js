@@ -7,6 +7,7 @@ function App() {
     hammaga salom
     salom
     salom2
+    maxadan salom
     </div>
   );
 }
